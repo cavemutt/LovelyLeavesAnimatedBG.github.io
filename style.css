@@ -325,9 +325,9 @@ body {
     top: 6vw;
     right: 0vw;
     transform-origin: top right;
-    animation-delay: 1.3s;
-    animation: leafMore 30s ease-in-out infinite;
-    -webkit-animation: leafMore 30s ease-in-out infinite;
+    animation-delay: 8.5s;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
 }
 #leaf30 {
     opacity: 0.9;
@@ -336,10 +336,9 @@ body {
     top: 7.1vw;
     right: 4.2vw;
     transform-origin: center right;
-    animation-delay: 5.3s;
-    animation: leaf 30s ease-in-out infinite;
-    -webkit-animation: leaf 30s ease-in-out infinite;
-
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
+    animation-delay: 2.3s;
 }
 #leaf3136 {
     opacity: 0.9;
@@ -348,9 +347,9 @@ body {
     top: 11vw;
     right: -1.2vw;
     transform-origin: top right;
-    animation-delay: 2.5s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 2.5s;
 
 }
 #leaf32 {
@@ -360,9 +359,9 @@ body {
     top: 18.1vw;
     right: 4.2vw;
     transform-origin: top right;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
     animation-delay: 0.4s;
-    animation: leafMore 30s ease-in-out infinite;
-    -webkit-animation: leafMore 30s ease-in-out infinite;
 }
 #leaf33 {
     opacity: 0.9;
@@ -371,10 +370,9 @@ body {
     top: 21vw;
     right: 2.6vw;
     transform-origin: top right;
-    animation-delay: 4.8s;
-    animation: leaf 30s ease-in-out infinite;
-    -webkit-animation: leaf 30s ease-in-out infinite;
-
+    animation: leafMore 30s ease-in-out infinite;
+    -webkit-animation: leafMore 30s ease-in-out infinite;
+    animation-delay: 2.4s;
 }
 #leaf3435 {
     opacity: 0.9;
@@ -382,9 +380,9 @@ body {
     top: 16.2vw;
     right: -0.5vw;
     transform-origin: top right;
-    animation-delay: 3.1s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 6.1s;
 
 }
 #leaf3742 {
@@ -394,9 +392,9 @@ body {
     top: 23.1vw;
     right: 2.7vw;
     transform-origin: top right;
-    animation-delay: 7.8s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 7.8s;
 
 }
 #leaf38 {
@@ -406,9 +404,9 @@ body {
     top: 26vw;
     right: -1.6vw;
     transform-origin: top right;
-    animation-delay: 2.1s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 8.9s;
 
 }
 #leaf39 {
@@ -418,9 +416,9 @@ body {
     top: 32.6vw;
     right: 5.7vw;
     transform-origin: right 40%;
-    animation-delay: 5.1s;
-    animation: leaf 30s ease-in-out infinite;
-    -webkit-animation: leaf 30s ease-in-out infinite;
+    animation: leafMore 30s ease-in-out infinite;
+    -webkit-animation: leafMore 30s ease-in-out infinite;
+    animation-delay: 7.9s;
 }
 #leaf40 {
     opacity: 0.9;
@@ -429,9 +427,9 @@ body {
     top: 34.8vw;
     right: 0.6vw;
     transform-origin: 73% top;
-    animation-delay: 6.7s;
-    animation: leafMore 30s ease-in-out infinite;
-    -webkit-animation: leafMore 30s ease-in-out infinite;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
+    animation-delay: 0.5s;
 }
 #leaf41 {
     opacity: 0.9;
@@ -440,9 +438,9 @@ body {
     top: 41vw;
     right: 3.7vw;
     transform-origin: right 38%;
-    animation-delay: 3.9s;
-    animation: leaf 30s ease-in-out infinite;
-    -webkit-animation: leaf 30s ease-in-out infinite;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
+    animation-delay:10s;
 }
 #leaf43 {
     opacity: 0.9;
@@ -464,9 +462,9 @@ body {
     top: 45.4vw;
     right: 2vw;
     transform-origin: 90% top;
-    animation-delay: 2.2s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 2.2s;
 
 }
 #leaf45 {
@@ -476,9 +474,9 @@ body {
     top: 49.7vw;
     right: 3vw;
     transform-origin: right 10%;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
     animation-delay: 5.7s;
-    animation: leafMore 30s ease-in-out infinite;
-    -webkit-animation: leafMore 30s ease-in-out infinite;
 }
 #leaf47 {
     opacity: 1;
@@ -487,10 +485,9 @@ body {
     top: 53.9vw;
     right: 4.1vw;
     transform-origin: bottom right;
-    animation-delay: 7.6s;
-    animation: leaf 30s ease-in-out infinite;
-    -webkit-animation: leaf 30s ease-in-out infinite;
-
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
+    animation-delay: 11.6s;
 }
 #leaf48 {
     opacity: 1;
@@ -499,9 +496,9 @@ body {
     top: 51.8vw;
     right: 0.5vw;
     transform-origin: 80% top;
-    animation-delay: 2.9s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 2.9s;
 
 }
 #leaf49 {
@@ -511,9 +508,9 @@ body {
     top: 56.6vw;
     right: -0.8vw;
     transform-origin: 52% 3%;
-    animation-delay: 6.1s;
     animation: leaf 30s ease-in-out infinite;
     -webkit-animation: leaf 30s ease-in-out infinite;
+    animation-delay: 6.1s;
 
 }
 #leaf50 {
@@ -523,23 +520,9 @@ body {
     top: 61.5vw;
     right: -0.7vw;
     transform-origin: 50% 20%;
+    animation: leafMoreZ 30s ease-in-out infinite;
+    -webkit-animation: leafMoreZ 30s ease-in-out infinite;
     animation-delay: 5.9s;
-    animation: leafMore 30s ease-in-out infinite;
-    -webkit-animation: leafMore 30s ease-in-out infinite;
-}
-#leaf51 {
-    opacity: 1;
-    z-index: -3;
-    width: 14vw;
-    top: 57vw;
-    right: 3.5vw;
-    transform-origin: bottom right;
-    animation-delay: 8s;
-    transform: scaleY(-1) rotateZ(55deg);
-    -webkit-transform: scaleY(-1) rotateZ(55deg);
-    -moz-transform: scaleY(-1) rotateZ(55deg);
-    -ms-transform: scaleY(-1) rotateZ(55deg);
-    -o-transform: scaleY(-1) rotateZ(55deg);
 }
 
 
@@ -814,6 +797,99 @@ body {
         -moz-transform: rotateX(4deg) rotateY(2deg) rotateZ(1deg);
         -ms-transform: rotateX(4deg) rotateY(2deg) rotateZ(1deg);
         -o-transform: rotateX(4deg) rotateY(2deg) rotateZ(1deg);
+}
+    100%{
+        transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
+        -webkit-transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
+        -moz-transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
+        -ms-transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
+        -o-transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
+}
+}
+@keyframes leafMoreZ {
+    0%{
+        transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+        -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+        -moz-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+        -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+        -o-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+    4%{
+        transform: rotateX(8deg) rotateY(2deg) rotateZ(2deg);
+        -webkit-transform: rotateX(8deg) rotateY(2deg) rotateZ(2deg);
+        -moz-transform: rotateX(8deg) rotateY(2deg) rotateZ(2deg);
+        -ms-transform: rotateX(8deg) rotateY(2deg) rotateZ(2deg);
+        -o-transform: rotateX(8deg) rotateY(2deg) rotateZ(2deg);
+}
+    8%{
+        transform: rotateX(-8deg) rotateY(-2deg) rotateZ(-8deg);
+        -webkit-transform: rotateX(-8deg) rotateY(-2deg) rotateZ(-8deg);
+        -moz-transform: rotateX(-8deg) rotateY(-2deg) rotateZ(-8deg);
+        -ms-transform: rotateX(-8deg) rotateY(-2deg) rotateZ(-8deg);
+        -o-transform: rotateX(-8deg) rotateY(-2deg) rotateZ(-8deg);
+}
+    12%{
+        transform: rotateX(6deg) rotateY(4deg) rotateZ(4deg);
+        -webkit-transform: rotateX(6deg) rotateY(4deg) rotateZ(4deg);
+        -moz-transform: rotateX(6deg) rotateY(4deg) rotateZ(4deg);
+        -ms-transform: rotateX(6deg) rotateY(4deg) rotateZ(4deg);
+        -o-transform: rotateX(6deg) rotateY(4deg) rotateZ(4deg);
+}
+    16%{
+        transform: rotateX(-8deg) rotateY(-4deg) rotateZ(-5deg);
+        -webkit-transform: rotateX(-8deg) rotateY(-4deg) rotateZ(-5deg);
+        -moz-transform: rotateX(-8deg) rotateY(-4deg) rotateZ(-5deg);
+        -ms-transform: rotateX(-8deg) rotateY(-4deg) rotateZ(-5deg);
+        -o-transform: rotateX(-8deg) rotateY(-4deg) rotateZ(-5deg);
+}
+    24%{
+        transform: rotateX(4deg) rotateY(1deg) rotateZ(4deg);
+        -webkit-transform: rotateX(4deg) rotateY(1deg) rotateZ(4deg);
+        -moz-transform: rotateX(4deg) rotateY(1deg) rotateZ(4deg);
+        -ms-transform: rotateX(4deg) rotateY(1deg) rotateZ(4deg);
+        -o-transform: rotateX(4deg) rotateY(1deg) rotateZ(4deg);
+}
+    31%{
+        transform: rotateX(-10deg) rotateY(-2deg) rotateZ(-6deg);
+        -webkit-transform: rotateX(-10deg) rotateY(-2deg) rotateZ(-6deg);
+        -moz-transform: rotateX(-10deg) rotateY(-2deg) rotateZ(-6deg);
+        -ms-transform: rotateX(-10deg) rotateY(-2deg) rotateZ(-6deg);
+        -o-transform: rotateX(-10deg) rotateY(-2deg) rotateZ(-6deg);
+}
+    42%{
+        transform: rotateX(9deg) rotateY(3deg) rotateZ(4deg);
+        -webkit-transform: rotateX(9deg) rotateY(3deg) rotateZ(4deg);
+        -moz-transform: rotateX(9deg) rotateY(3deg) rotateZ(4deg);
+        -ms-transform: rotateX(9deg) rotateY(3deg) rotateZ(4deg);
+        -o-transform: rotateX(9deg) rotateY(3deg) rotateZ(4deg);
+}
+    53%{
+        transform: rotateX(-18deg) rotateY(-7deg) rotateZ(-5deg);
+        -webkit-transform: rotateX(-18deg) rotateY(-7deg) rotateZ(-5deg);
+        -moz-transform: rotateX(-18deg) rotateY(-7deg) rotateZ(-5deg);
+        -ms-transform: rotateX(-18deg) rotateY(-7deg) rotateZ(-5deg);
+        -o-transform: rotateX(-18deg) rotateY(-7deg) rotateZ(-5deg);
+}
+    65%{
+        transform: rotateX(15deg) rotateY(6deg) rotateZ(4deg);
+        -webkit-transform: rotateX(15deg) rotateY(6deg) rotateZ(4deg);
+        -moz-transform: rotateX(15deg) rotateY(6deg) rotateZ(4deg);
+        -ms-transform: rotateX(15deg) rotateY(6deg) rotateZ(4deg);
+        -o-transform: rotateX(15deg) rotateY(6deg) rotateZ(4deg);
+}
+    78%{
+        transform: rotateX(-10deg) rotateY(-4deg) rotateZ(-3deg);
+        -webkit-transform: rotateX(-10deg) rotateY(-4deg) rotateZ(-3deg);
+        -moz-transform: rotateX(-10deg) rotateY(-4deg) rotateZ(-3deg);
+        -ms-transform: rotateX(-10deg) rotateY(-4deg) rotateZ(-3deg);
+        -o-transform: rotateX(-10deg) rotateY(-4deg) rotateZ(-3deg);
+}
+    88%{
+        transform: rotateX(4deg) rotateY(2deg) rotateZ(2deg);
+        -webkit-transform: rotateX(4deg) rotateY(2deg) rotateZ(2deg);
+        -moz-transform: rotateX(4deg) rotateY(2deg) rotateZ(2deg);
+        -ms-transform: rotateX(4deg) rotateY(2deg) rotateZ(2deg);
+        -o-transform: rotateX(4deg) rotateY(2deg) rotateZ(2deg);
 }
     100%{
         transform: rotateX(0deg ) rotateY(0deg) rotateZ(0deg);
